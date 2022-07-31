@@ -1,5 +1,5 @@
-# TelegramSampleBot
-Free Sample Telegram Bot Library 
+# TelegramSimpleBot
+Free Simple Telegram Bot Library 
 
 # Free
 https://www.nuget.org/packages/TelegramSimpleBot/
