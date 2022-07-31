@@ -4,7 +4,7 @@ Free Simple Telegram Bot Library
 # Free
 https://www.nuget.org/packages/TelegramSimpleBot/
 
-# Sample
+# Simple
 Very Easy To Use
 
 # Many Possibilities
